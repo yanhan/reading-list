@@ -43,6 +43,7 @@ Kubernetes resources
 - https://github.com/pusher/k8s-spot-rescheduler
 - https://danielfm.me/posts/painless-nginx-ingress.html
 - https://gist.github.com/so0k/f927a4b60003cedd101a0911757c605a
+- https://blog.jetstack.io/blog/resource-and-custom-metrics-hpa-v2/
 
 
 ## Graceful Pod Termination
