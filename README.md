@@ -7,6 +7,7 @@ Stuff I want to read
 
 - https://en.wikipedia.org/wiki/Closure_(computer_programming)
 - https://github.com/GoogleContainerTools/distroless
+- https://manios.org/2014/12/30/json-remove-new-lines-via-linux-and-use-it-as-string-variable-and-as-param-in-curl-post-request
 
 
 ## Command Line

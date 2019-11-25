@@ -27,7 +27,6 @@
 - https://www.reddit.com/r/aws/comments/aenzxr/any_advice_on_using_aws_lambdas_to_stream/
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_enable-regions.html
 - https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html
-- https://www.youtube.com/watch?v=suBsFAEJUIc (AWS re:Invent 2017: GPS: IAM Best Practices and Becoming an IAM Ninja (GPSTEC310))
 - https://www.youtube.com/watch?v=aISWoPf_XNE (AWS re:Invent 2017: IAM Policy Ninja (SID314))
 - https://www.youtube.com/watch?v=UiXRVHgQ_Gg (Dynamic Content Acceleration: Amazon CloudFront and Route 53)
 
