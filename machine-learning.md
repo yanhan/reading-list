@@ -26,3 +26,4 @@
 ## Math
 
 - https://news.ycombinator.com/item?id=20570025 (Math basics for Computer Science and Machine Learning)
+- https://news.ycombinator.com/item?id=21628449 (Interactive Linear Algebra)
