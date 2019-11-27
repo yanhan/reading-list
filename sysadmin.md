@@ -133,3 +133,8 @@
 
 - https://www.digitalocean.com/community/tutorials/how-to-sync-and-share-your-files-with-seafile-on-debian-9
 - https://github.com/eon01/awesome-sysadmin
+
+
+## 2FA solutions
+
+- https://duo.com/
