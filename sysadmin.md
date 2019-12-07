@@ -15,6 +15,7 @@
 ## AWS
 
 - https://news.ycombinator.com/item?id=21698995 (AWS introduces provisioned concurrency for Lambda functions)
+- https://news.ycombinator.com/item?id=21714209 (The Amazon Builder's Library)
 - https://github.com/open-guides/og-aws
 - https://github.com/aws-samples
 - https://aws.amazon.com/getting-started/use-cases/

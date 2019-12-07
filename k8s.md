@@ -4,6 +4,7 @@ Kubernetes resources
 
 ## Unclassified
 
+- https://news.ycombinator.com/item?id=21711748 (A visual guide on troubleshooting Kubernetes deployments)
 - https://www.infoq.com/presentations/chick-fil-a-k8-clusters/
 - https://github.com/aws-samples/amazon-k8s-node-drainer
 - https://www.kubernetes.org.cn/2693.html
@@ -12,7 +13,6 @@ Kubernetes resources
 - https://www.firehydrant.io/blog/dynamic-kubernetes-informers/
 - https://github.com/litmuschaos/litmus
 - https://aws.amazon.com/blogs/opensource/centralized-container-logging-fluent-bit/
-- https://cloud.google.com/kubernetes-engine/kubernetes-comic/
 - https://www.digitalocean.com/community/tutorials/how-to-autoscale-your-workloads-on-digitalocean-kubernetes
 - https://itnext.io/the-definitive-guide-to-running-ec2-spot-instances-as-kubernetes-worker-nodes-68ef2095e767
 - https://www.datadoghq.com/blog/autoscale-kubernetes-datadog/
