@@ -14,6 +14,11 @@
 - http://www.cs.cornell.edu/courses/cs4780/2018fa/syllabus/index.html
 
 
+## Videos (but not courses per se)
+
+- https://twitter.com/lexfridman/status/1210253125187186688 (MIT lectures on deep learning)
+
+
 ## Books
 
 - https://news.ycombinator.com/item?id=21293132 (Mathematics for Machine Learning)

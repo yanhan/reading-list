@@ -5,6 +5,7 @@ Stuff I want to read
 
 ## New
 
+- https://twitter.com/chaignc/status/1208413293909557248 (agrep; approximate grep)
 - https://news.ycombinator.com/item?id=21772610
 - https://en.wikipedia.org/wiki/Closure_(computer_programming)
 - https://github.com/GoogleContainerTools/distroless
