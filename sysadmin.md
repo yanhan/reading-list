@@ -12,6 +12,11 @@
 - https://www.infoq.com/presentations/chaos-engineering-resilient-systems
 
 
+## Vault
+
+- https://www.vaultproject.io/docs/internals/index.html (Please read Internals and Concepts)
+
+
 ## AWS
 
 - https://news.ycombinator.com/item?id=21698995 (AWS introduces provisioned concurrency for Lambda functions)
