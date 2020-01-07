@@ -10,6 +10,8 @@ Stuff I want to read
 - https://en.wikipedia.org/wiki/Closure_(computer_programming)
 - https://github.com/GoogleContainerTools/distroless
 - https://manios.org/2014/12/30/json-remove-new-lines-via-linux-and-use-it-as-string-variable-and-as-param-in-curl-post-request
+- https://dev.to/selbekk/how-to-get-started-with-react-in-2020-4po3
+- https://www.vaultproject.io/docs/concepts/response-wrapping.html
 
 
 ## Command Line
