@@ -12,6 +12,11 @@ Stuff I want to read
 - https://manios.org/2014/12/30/json-remove-new-lines-via-linux-and-use-it-as-string-variable-and-as-param-in-curl-post-request
 - https://dev.to/selbekk/how-to-get-started-with-react-in-2020-4po3
 - https://www.vaultproject.io/docs/concepts/response-wrapping.html
+- https://twitter.com/kubernetesio/status/1214222636437450753?s=19 (List of k8s success stories)
+- https://news.ycombinator.com/item?id=22004133 (How to build a PaaS for 1500 engineers)
+- https://news.ycombinator.com/item?id=22004133 (How many of you are rolling your own auth?)
+- https://news.ycombinator.com/item?id=22005111 (Google Research: Looking back at 2019, and Forward to 2020 and Beyond)
+- http://www.haskellforall.com/2020/01/dhall-year-in-review-2019-2020.html
 
 
 ## Command Line
