@@ -6,7 +6,6 @@ Stuff I want to read
 ## New
 
 - https://twitter.com/chaignc/status/1208413293909557248 (agrep; approximate grep)
-- https://news.ycombinator.com/item?id=21772610
 - https://github.com/GoogleContainerTools/distroless
 - https://manios.org/2014/12/30/json-remove-new-lines-via-linux-and-use-it-as-string-variable-and-as-param-in-curl-post-request
 - https://dev.to/selbekk/how-to-get-started-with-react-in-2020-4po3
@@ -27,11 +26,6 @@ Stuff I want to read
 - https://twobithistory.org/2019/08/22/readline.html
 - https://news.ycombinator.com/item?id=21281025 (Stupid Unix Tricks)
 - https://github.com/alebcay/awesome-shell
-
-
-## High Scalability
-
-- https://stackshare.io/raygun/how-raygun-processes-millions-of-error-events-per-second
 
 
 ## Microservices
@@ -65,10 +59,13 @@ Stuff I want to read
 - https://github.com/firehol/netdata
 - https://github.com/tldr-pages/tldr
 - https://github.com/knqyf263/pet
-- https://github.com/gojektech/proctor
 - https://github.com/arnehilmann/markdeck
 - https://jsonnet.org/
 - https://mermaidjs.github.io/
+- https://news.ycombinator.com/item?id=21772610 (Huginn, worth a try)
+- https://github.com/ansible-community/ansible-bender (Building docker containers using ansible as the frontend)
+- https://www.openfaas.com/blog/birthday-teamserverless/
+- https://flywaydb.org/
 
 
 ## vim

@@ -54,6 +54,11 @@ Kubernetes resources
 - https://blog.gruntwork.io/avoiding-outages-in-your-kubernetes-cluster-using-poddisruptionbudgets-ef6a4baa5085
 
 
+## Tools
+
+- https://github.com/vmware-tanzu/velero
+
+
 ## Free online courses
 
 - https://www.edx.org/course/introduction-to-kubernetes
