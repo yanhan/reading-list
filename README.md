@@ -16,6 +16,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=22030928 (Is Parallel Programming hard, and, if so, what can you do about it?)
 - https://news.ycombinator.com/item?id=22029823 (Probabilistic Programming and Bayesian Methods for Hackers)
 - https://www.digitalocean.com/community/tutorials/how-to-back-up-and-restore-a-kubernetes-cluster-on-digitalocean-using-velero
+- https://blog.arkency.com/how-to-migrate-large-database-tables-without-a-headache/
 
 
 ## Command Line
