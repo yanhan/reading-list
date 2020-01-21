@@ -10,6 +10,7 @@
 - https://twitter.com/rothgar/status/959286363781611524?s=03 (SPIFFEio: An Open Standard for Identity in Cloud Native environments)
 - https://www.youtube.com/watch?v=MXQmrZPH1vg (Commons Host - Dawn of the Hybrid CDN - Web Performance)
 - https://www.infoq.com/presentations/chaos-engineering-resilient-systems
+- https://aws.amazon.com/premiumsupport/knowledge-center/s3-bucket-store-kms-encrypted-objects/
 
 
 ## Vault

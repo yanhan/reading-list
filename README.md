@@ -10,7 +10,6 @@ Stuff I want to read
 - https://twitter.com/kubernetesio/status/1214222636437450753?s=19 (List of k8s success stories)
 - https://news.ycombinator.com/item?id=22004133 (How to build a PaaS for 1500 engineers)
 - https://news.ycombinator.com/item?id=22001918 (How many of you are rolling your own auth?)
-- https://news.ycombinator.com/item?id=22005111 (Google Research: Looking back at 2019, and Forward to 2020 and Beyond)
 - http://www.haskellforall.com/2020/01/dhall-year-in-review-2019-2020.html
 - https://twitter.com/ibuildthecloud/status/1216865498941444096 (k3c - Classic Docker for a k8s world)
 - https://news.ycombinator.com/item?id=22030928 (Is Parallel Programming hard, and, if so, what can you do about it?)
@@ -77,9 +76,7 @@ Stuff I want to read
 - https://bluz71.github.io/2017/06/14/a-few-vim-tmux-mappings.html
 - https://github.com/junegunn/vim-easy-align
 - https://twitter.com/bertvanvreckem/status/926146879603265536 (Vim cheatsheets)
-- http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
 - https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118
-- https://vim.rtorr.com/
 - https://www.reddit.com/r/vim/comments/83y4y4/antipatterns_what_not_to_do/
 - https://twitter.com/VimLinks/status/1181847015728308225
 - https://www.quora.com/What-are-some-time-saving-tips-that-every-Vim-user-should-know/answer/Sam-Tetruashvili (`q:` and `q/`)
@@ -158,3 +155,4 @@ Stuff I want to read
 - https://www.amazon.com/gp/product/0978577604/?ie=UTF8&tag=aboutmatthewm-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0978577604 (Even a Geek can Speak: Low-tech presentation skills for high-tech people [Joey Asher])
 - https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655 (Web Scalability for Startup Engineers [Artur Ejsmont])
 - https://microservices.io/book
+- https://www.amazon.com/gp/product/1492040762 (Cloud Native Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud [John Arundel])
