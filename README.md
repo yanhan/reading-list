@@ -16,6 +16,9 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=22029823 (Probabilistic Programming and Bayesian Methods for Hackers)
 - https://www.digitalocean.com/community/tutorials/how-to-back-up-and-restore-a-kubernetes-cluster-on-digitalocean-using-velero
 - https://blog.arkency.com/how-to-migrate-large-database-tables-without-a-headache/
+- https://news.ycombinator.com/item?id=22106482 (How I write back ends)
+- https://news.ycombinator.com/item?id=22107556 (I'm building an open, crowdsourced database of ML models)
+- https://news.ycombinator.com/item?id=22113827 (Go's Tooling is an Undervalued Technology)
 
 
 ## Command Line
