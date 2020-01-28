@@ -8,8 +8,6 @@ Stuff I want to read
 - https://github.com/GoogleContainerTools/distroless
 - https://dev.to/selbekk/how-to-get-started-with-react-in-2020-4po3
 - https://twitter.com/kubernetesio/status/1214222636437450753?s=19 (List of k8s success stories)
-- https://news.ycombinator.com/item?id=22004133 (How to build a PaaS for 1500 engineers)
-- https://news.ycombinator.com/item?id=22001918 (How many of you are rolling your own auth?)
 - http://www.haskellforall.com/2020/01/dhall-year-in-review-2019-2020.html
 - https://twitter.com/ibuildthecloud/status/1216865498941444096 (k3c - Classic Docker for a k8s world)
 - https://news.ycombinator.com/item?id=22030928 (Is Parallel Programming hard, and, if so, what can you do about it?)
