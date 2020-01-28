@@ -133,6 +133,11 @@ Stuff I want to read
 - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/index
 
 
+## Compilers
+
+- https://eschew.wordpress.com/2020/01/26/undergrad-compilers-from-the-hive-mind/
+
+
 ## Distributed Systems
 
 - http://book.mixu.net/distsys/
