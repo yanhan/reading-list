@@ -21,6 +21,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=22113827 (Go's Tooling is an Undervalued Technology)
 - https://codelabs.developers.google.com/codelabs/vault-on-gke/index.html
 - https://caylent.com/using-hashicorp-vault-on-kubernetes
+- https://beepb00p.xyz/unnecessary-db.html
 
 
 ## Command Line
