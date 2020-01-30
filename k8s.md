@@ -4,6 +4,7 @@ Kubernetes resources
 
 ## Unclassified
 
+- https://github.com/GoogleContainerTools/distroless
 - https://news.ycombinator.com/item?id=21711748 (A visual guide on troubleshooting Kubernetes deployments)
 - https://www.infoq.com/presentations/chick-fil-a-k8-clusters/
 - https://github.com/aws-samples/amazon-k8s-node-drainer

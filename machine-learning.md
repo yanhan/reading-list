@@ -32,3 +32,8 @@
 
 - https://news.ycombinator.com/item?id=20570025 (Math basics for Computer Science and Machine Learning)
 - https://news.ycombinator.com/item?id=21628449 (Interactive Linear Algebra)
+
+
+## Models
+
+- https://news.ycombinator.com/item?id=22107556 (I'm building an open, crowdsourced database of ML models)

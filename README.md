@@ -5,18 +5,13 @@ Stuff I want to read
 
 ## New
 
-- https://github.com/GoogleContainerTools/distroless
-- https://dev.to/selbekk/how-to-get-started-with-react-in-2020-4po3
 - https://twitter.com/kubernetesio/status/1214222636437450753?s=19 (List of k8s success stories)
 - http://www.haskellforall.com/2020/01/dhall-year-in-review-2019-2020.html
 - https://twitter.com/ibuildthecloud/status/1216865498941444096 (k3c - Classic Docker for a k8s world)
-- https://news.ycombinator.com/item?id=22030928 (Is Parallel Programming hard, and, if so, what can you do about it?)
 - https://news.ycombinator.com/item?id=22029823 (Probabilistic Programming and Bayesian Methods for Hackers)
 - https://www.digitalocean.com/community/tutorials/how-to-back-up-and-restore-a-kubernetes-cluster-on-digitalocean-using-velero
 - https://blog.arkency.com/how-to-migrate-large-database-tables-without-a-headache/
 - https://news.ycombinator.com/item?id=22106482 (How I write back ends)
-- https://news.ycombinator.com/item?id=22107556 (I'm building an open, crowdsourced database of ML models)
-- https://news.ycombinator.com/item?id=22113827 (Go's Tooling is an Undervalued Technology)
 - https://codelabs.developers.google.com/codelabs/vault-on-gke/index.html
 - https://caylent.com/using-hashicorp-vault-on-kubernetes
 - https://beepb00p.xyz/unnecessary-db.html
@@ -135,6 +130,7 @@ Stuff I want to read
 ## Compilers
 
 - https://eschew.wordpress.com/2020/01/26/undergrad-compilers-from-the-hive-mind/
+- https://increment.com/programming-languages/crash-course-in-compilers/
 
 
 ## Distributed Systems
