@@ -65,6 +65,7 @@ Stuff I want to read
 - https://github.com/ansible-community/ansible-bender (Building docker containers using ansible as the frontend)
 - https://www.openfaas.com/blog/birthday-teamserverless/
 - https://flywaydb.org/
+- https://github.com/sqshq/sampler
 
 
 ## vim
@@ -132,6 +133,12 @@ Stuff I want to read
 
 - https://eschew.wordpress.com/2020/01/26/undergrad-compilers-from-the-hive-mind/
 - https://increment.com/programming-languages/crash-course-in-compilers/
+- https://news.ycombinator.com/item?id=20914046 (Ask HN: Compiler Engineers, what would you advise new grads/students to learn?)
+
+
+## Deep tutorials
+
+- https://viewsourcecode.org/snaptoken/kilo/index.html
 
 
 ## Distributed Systems

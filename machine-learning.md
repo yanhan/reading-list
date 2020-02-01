@@ -3,6 +3,11 @@
 - https://developers.google.com/machine-learning/guides/rules-of-ml/
 
 
+## FAQs
+
+- https://www.quora.com/session/Crossing-Minds-Inc/1
+
+
 ## Articles
 
 - https://queue.acm.org/detail.cfm?id=2903468 (Statistics for Engineers)
