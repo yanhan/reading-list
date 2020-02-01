@@ -16,6 +16,7 @@ Stuff I want to read
 - https://caylent.com/using-hashicorp-vault-on-kubernetes
 - https://beepb00p.xyz/unnecessary-db.html
 - https://ef.gy/hardening-ssh
+- https://news.ycombinator.com/item?id=22179841 (Some useful probability facts for Systems Programming)
 
 
 ## Command Line
