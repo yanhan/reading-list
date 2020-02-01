@@ -140,6 +140,7 @@ Stuff I want to read
 ## Deep tutorials
 
 - https://viewsourcecode.org/snaptoken/kilo/index.html
+- https://news.ycombinator.com/item?id=20164062 (Green threads explained in 200 lines of Rust)
 
 
 ## Distributed Systems
