@@ -17,6 +17,8 @@ Stuff I want to read
 - https://beepb00p.xyz/unnecessary-db.html
 - https://ef.gy/hardening-ssh
 - https://news.ycombinator.com/item?id=22179841 (Some useful probability facts for Systems Programming)
+- https://news.ycombinator.com/item?id=22226380 (The missing semester of CS education)
+- https://spectrum.ieee.org/tech-talk/computing/software/classical-chinese
 
 
 ## Command Line
@@ -156,6 +158,11 @@ Stuff I want to read
 - https://stackoverflow.com/questions/21277170/postgresql-wrong-converting-from-timestamp-without-time-zone-to-timestamp-with-t
 - https://stackoverflow.com/questions/25456465/postgres-timestamp-with-timezone
 - http://www.craigkerstiens.com/2013/02/21/more-out-of-psql/
+
+
+## Products
+
+- https://tailscale.com/
 
 
 ## Books to check out
