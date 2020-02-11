@@ -19,7 +19,6 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=22179841 (Some useful probability facts for Systems Programming)
 - https://news.ycombinator.com/item?id=22226380 (The missing semester of CS education)
 - https://spectrum.ieee.org/tech-talk/computing/software/classical-chinese
-- https://jeremykun.com/2019/06/08/math-versus-data/
 
 
 ## Command Line
