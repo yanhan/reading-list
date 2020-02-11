@@ -27,6 +27,7 @@
 
 ## Books
 
+- https://mml-book.github.io/  (Mathematics for Machine Learning; free by authors)
 - https://news.ycombinator.com/item?id=21293132 (Mathematics for Machine Learning)
 - http://themlbook.com/
 - https://pragprog.com/book/pplearn/programming-machine-learning (Programming Machine Learning: From Zero to Deep Learning [Paolo Perrotta])
