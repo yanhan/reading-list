@@ -17,6 +17,7 @@
 
 - https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS (Cornell CS4780 Machine Learning for Intelligent Systems)
 - http://www.cs.cornell.edu/courses/cs4780/2018fa/syllabus/index.html
+- http://cs229.stanford.edu/syllabus.html
 
 
 ## Videos (but not courses per se)
