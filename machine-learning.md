@@ -11,6 +11,7 @@
 ## Articles
 
 - https://queue.acm.org/detail.cfm?id=2903468 (Statistics for Engineers)
+- http://blog.mrtz.org/2016/03/14/stability.html
 
 
 ## Courses
@@ -44,3 +45,10 @@
 ## Models
 
 - https://news.ycombinator.com/item?id=22107556 (I'm building an open, crowdsourced database of ML models)
+
+
+## Theory
+
+- https://cs.stackexchange.com/questions/75457/how-much-does-regularization-prevent-overfitting
+- https://cs.stackexchange.com/questions/75327/why-is-deep-learning-hyped-despite-bad-vc-dimension
+- https://cs.stackexchange.com/questions/75397/is-it-a-problem-that-successful-machine-learning-algorithms-have-large-vc-dime
