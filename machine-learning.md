@@ -12,6 +12,8 @@
 
 - https://queue.acm.org/detail.cfm?id=2903468 (Statistics for Engineers)
 - http://blog.mrtz.org/2016/03/14/stability.html
+- https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429
+- https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-2-d9b96aa399f5
 
 
 ## Courses
@@ -45,6 +47,12 @@
 ## Models
 
 - https://news.ycombinator.com/item?id=22107556 (I'm building an open, crowdsourced database of ML models)
+
+
+## Papers
+
+- https://www.asc.ohio-state.edu/statistics/dmsl//GrandPrize2009_BPC_BigChaos.pdf (The BigChaos Solution to the Netflix Grand Prize)
+- http://www.machine-learning.martinsewell.com/ensembles/bagging/Breiman1996.pdf (Bagging Predictors - Leo Breiman)
 
 
 ## Theory
