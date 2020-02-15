@@ -42,6 +42,7 @@
 
 - https://news.ycombinator.com/item?id=20570025 (Math basics for Computer Science and Machine Learning)
 - https://news.ycombinator.com/item?id=21628449 (Interactive Linear Algebra)
+- https://www.le.ac.uk/users/dsgp1/COURSES/MESOMET/ECMETXT/06mesmet.pdf (The Classical Linear Regression Model)
 
 
 ## Models
