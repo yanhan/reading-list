@@ -54,6 +54,7 @@
 
 - https://www.asc.ohio-state.edu/statistics/dmsl//GrandPrize2009_BPC_BigChaos.pdf (The BigChaos Solution to the Netflix Grand Prize)
 - http://www.machine-learning.martinsewell.com/ensembles/bagging/Breiman1996.pdf (Bagging Predictors - Leo Breiman)
+- https://blog.acolyer.org/2019/10/07/150-successful-machine-learning-models/
 
 
 ## Theory
