@@ -37,6 +37,7 @@
 - https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html
 - https://www.youtube.com/watch?v=aISWoPf_XNE (AWS re:Invent 2017: IAM Policy Ninja (SID314))
 - https://www.youtube.com/watch?v=UiXRVHgQ_Gg (Dynamic Content Acceleration: Amazon CloudFront and Route 53)
+- https://ec2spotworkshops.com/
 
 
 ## SSH tricks
