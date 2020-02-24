@@ -6,25 +6,18 @@ Kubernetes resources
 
 - https://news.ycombinator.com/item?id=21711748 (A visual guide on troubleshooting Kubernetes deployments)
 - https://www.infoq.com/presentations/chick-fil-a-k8-clusters/
-- https://github.com/aws-samples/amazon-k8s-node-drainer
 - https://www.kubernetes.org.cn/2693.html
 - https://borismattijssen.github.io/articles/kubernetes-informers-controllers-reflectors-stores
 - https://medium.com/@muhammet.arslan/write-your-own-kubernetes-controller-with-informers-9920e8ab6f84
 - https://www.firehydrant.io/blog/dynamic-kubernetes-informers/
-- https://github.com/litmuschaos/litmus
 - https://aws.amazon.com/blogs/opensource/centralized-container-logging-fluent-bit/
 - https://www.digitalocean.com/community/tutorials/how-to-autoscale-your-workloads-on-digitalocean-kubernetes
-- https://itnext.io/the-definitive-guide-to-running-ec2-spot-instances-as-kubernetes-worker-nodes-68ef2095e767
 - https://www.datadoghq.com/blog/autoscale-kubernetes-datadog/
 - https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/
 - https://github.com/aws-samples/aws-workshop-for-kubernetes
 - https://book.kubebuilder.io/
-- https://www.weave.works/technologies/kubernetes-on-aws/
-- https://github.com/fluxcd/flux
 - https://www.engineers.sg/video/cluster-ingress-in-the-age-of-envoy-istio-and-cloud-voxxed-days-singapore-2019--3517
 - https://banzaicloud.com/blog/k8s-external-dns-route53/
-- https://www.weave.works/technologies/weaveworks-on-aws/
-- https://www.weave.works/blog/provisioning-lifecycle-production-ready-kubernetes-cluster/
 - https://speakerdeck.com/spesnova/introduction-to-kustomize
 - https://kubernetes.io/docs/reference/kubectl/jsonpath/
 - https://medium.com/faun/using-minikube-profiles-def2477e968a
@@ -37,10 +30,22 @@ Kubernetes resources
 - https://www.digitalocean.com/community/tutorials/how-to-automate-deployments-to-digitalocean-kubernetes-with-circleci
 - https://banzaicloud.com/blog/pod-security-policy/
 - https://twitter.com/readkubelist/status/1124016470034386944?s=03
-- https://github.com/pusher/k8s-spot-rescheduler
 - https://danielfm.me/posts/painless-nginx-ingress.html
 - https://gist.github.com/so0k/f927a4b60003cedd101a0911757c605a
 - https://blog.jetstack.io/blog/resource-and-custom-metrics-hpa-v2/
+
+
+## Spot instances
+
+- https://itnext.io/the-definitive-guide-to-running-ec2-spot-instances-as-kubernetes-worker-nodes-68ef2095e767
+- https://github.com/pusher/k8s-spot-rescheduler
+
+
+## Tools
+
+- https://github.com/aws-samples/amazon-k8s-node-drainer
+- https://github.com/litmuschaos/litmus
+- https://github.com/fluxcd/flux
 
 
 ## Free online courses
@@ -83,9 +88,7 @@ Kubernetes resources
 - http://kubernetesbyexample.com/
 - https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/
 - https://kubernetes.io/docs/reference/kubectl/overview/
-- https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
 - https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
-- https://www.weave.works/docs/net/latest/kubernetes/kube-addon/
 - https://twitter.com/kubernetesio/status/1001873860747120641?s=03
 - https://scaleyourcode.com/interviews/interview/41
 - https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands
