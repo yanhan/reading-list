@@ -1,8 +1,6 @@
 ## New
 
-- https://allandenot.com/devops/2015/01/31/provisioning-ec2-hosts-with-ansible.html
 - https://www.shellhacks.com/systemd-service-file-example/
-- https://docs.catalystcloud.io/tutorials/ansible-create-x-servers-using-in-memory-inventory.html
 - https://blog.callr.tech/gitlab-ansible-docker-ci-cd/
 - https://github.com/airbnb/streamalert
 - http://www.opsschool.org/
@@ -10,7 +8,6 @@
 - https://twitter.com/rothgar/status/959286363781611524?s=03 (SPIFFEio: An Open Standard for Identity in Cloud Native environments)
 - https://www.youtube.com/watch?v=MXQmrZPH1vg (Commons Host - Dawn of the Hybrid CDN - Web Performance)
 - https://www.infoq.com/presentations/chaos-engineering-resilient-systems
-- https://aws.amazon.com/premiumsupport/knowledge-center/s3-bucket-store-kms-encrypted-objects/
 - https://news.ycombinator.com/item?id=22366638 (Unix Toolbox (2008))
 
 
@@ -27,15 +24,11 @@
 - https://github.com/aws-samples
 - https://aws.amazon.com/getting-started/use-cases/
 - https://aws.amazon.com/devops/
-- https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
 - http://en.clouddesignpattern.org/index.php/Main_Page
 - https://github.com/awslabs/aws-config-engine-for-compliance-as-code
 - https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
 - https://cloudbanshee.com/blog/connecting-to-private-api-over-vpn-or-vpc-peering (Private AWS API gateway over VPN; need to use VPC endpoint and ALB that points to a target group containing the VPC endpoint)
-- https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/SubscriptionFilters.html
-- https://www.reddit.com/r/aws/comments/aenzxr/any_advice_on_using_aws_lambdas_to_stream/
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_enable-regions.html
-- https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html
 - https://www.youtube.com/watch?v=aISWoPf_XNE (AWS re:Invent 2017: IAM Policy Ninja (SID314))
 - https://www.youtube.com/watch?v=UiXRVHgQ_Gg (Dynamic Content Acceleration: Amazon CloudFront and Route 53)
 - https://ec2spotworkshops.com/
