@@ -4,7 +4,6 @@ Kubernetes resources
 
 ## Unclassified
 
-- https://github.com/GoogleContainerTools/distroless
 - https://news.ycombinator.com/item?id=21711748 (A visual guide on troubleshooting Kubernetes deployments)
 - https://www.infoq.com/presentations/chick-fil-a-k8-clusters/
 - https://github.com/aws-samples/amazon-k8s-node-drainer
@@ -33,10 +32,7 @@ Kubernetes resources
 - https://github.com/istio/istio/issues/12231#issuecomment-498463497
 - https://github.com/linkerd/linkerd2/issues/2819
 - https://github.com/linkerd/linkerd2/issues/2847
-- https://cloud.google.com/kubernetes-engine/docs/how-to/encrypting-secrets
 - https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/
-- https://www.digitalocean.com/community/tutorials/how-to-set-up-a-cd-pipeline-with-spinnaker-on-digitalocean-kubernetes
-- https://dev.to/azure/kubernetes-from-the-beginning-part-i-4ifd
 - https://blog.digitalocean.com/how-to-deploy-to-digitalocean-kubernetes-with-github-actions/
 - https://www.digitalocean.com/community/tutorials/how-to-automate-deployments-to-digitalocean-kubernetes-with-circleci
 - https://banzaicloud.com/blog/pod-security-policy/
@@ -45,19 +41,6 @@ Kubernetes resources
 - https://danielfm.me/posts/painless-nginx-ingress.html
 - https://gist.github.com/so0k/f927a4b60003cedd101a0911757c605a
 - https://blog.jetstack.io/blog/resource-and-custom-metrics-hpa-v2/
-
-
-## Graceful Pod Termination
-
-- https://blog.gruntwork.io/zero-downtime-server-updates-for-your-kubernetes-cluster-902009df5b33
-- https://blog.gruntwork.io/gracefully-shutting-down-pods-in-a-kubernetes-cluster-328aecec90d
-- https://blog.gruntwork.io/delaying-shutdown-to-wait-for-pod-deletion-propagation-445f779a8304
-- https://blog.gruntwork.io/avoiding-outages-in-your-kubernetes-cluster-using-poddisruptionbudgets-ef6a4baa5085
-
-
-## Tools
-
-- https://github.com/vmware-tanzu/velero
 
 
 ## Free online courses
