@@ -11,6 +11,7 @@
 - https://www.youtube.com/watch?v=MXQmrZPH1vg (Commons Host - Dawn of the Hybrid CDN - Web Performance)
 - https://www.infoq.com/presentations/chaos-engineering-resilient-systems
 - https://aws.amazon.com/premiumsupport/knowledge-center/s3-bucket-store-kms-encrypted-objects/
+- https://news.ycombinator.com/item?id=22366638 (Unix Toolbox (2008))
 
 
 ## Vault
