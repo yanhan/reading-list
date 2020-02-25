@@ -4,7 +4,10 @@ Kubernetes resources
 
 ## Unclassified
 
-- https://news.ycombinator.com/item?id=21711748 (A visual guide on troubleshooting Kubernetes deployments)
+- https://banzaicloud.com/blog/inject-secrets-into-pods-vault-revisited/
+- https://twitter.com/alexellisuk/status/1232012833501655042
+- https://github.com/banzaicloud/bank-vaults/blob/master/cmd/vault-secrets-webhook/main.go
+- https://banzaicloud.com/blog/k8s-external-dns-route53/ (read the Security series links)
 - https://www.infoq.com/presentations/chick-fil-a-k8-clusters/
 - https://www.kubernetes.org.cn/2693.html
 - https://borismattijssen.github.io/articles/kubernetes-informers-controllers-reflectors-stores
@@ -28,11 +31,15 @@ Kubernetes resources
 - https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/
 - https://blog.digitalocean.com/how-to-deploy-to-digitalocean-kubernetes-with-github-actions/
 - https://www.digitalocean.com/community/tutorials/how-to-automate-deployments-to-digitalocean-kubernetes-with-circleci
-- https://banzaicloud.com/blog/pod-security-policy/
 - https://twitter.com/readkubelist/status/1124016470034386944?s=03
 - https://danielfm.me/posts/painless-nginx-ingress.html
 - https://gist.github.com/so0k/f927a4b60003cedd101a0911757c605a
 - https://blog.jetstack.io/blog/resource-and-custom-metrics-hpa-v2/
+- https://banzaicloud.com/blog/k8s-admission-webhooks/
+- https://banzaicloud.com/blog/vault-webhook-consul-template/
+- https://banzaicloud.com/blog/pke-cis-k8s-benchmark/
+- https://banzaicloud.com/blog/anchore-image-validation/
+- https://banzaicloud.com/blog/container-vulnerability-scans/
 
 
 ## Spot instances
@@ -43,6 +50,8 @@ Kubernetes resources
 
 ## Tools
 
+- https://github.com/banzaicloud/bank-vaults
+- https://github.com/dexidp/dex
 - https://github.com/aws-samples/amazon-k8s-node-drainer
 - https://github.com/litmuschaos/litmus
 - https://github.com/fluxcd/flux
