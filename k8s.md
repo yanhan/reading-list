@@ -14,13 +14,11 @@ Kubernetes resources
 - https://medium.com/@muhammet.arslan/write-your-own-kubernetes-controller-with-informers-9920e8ab6f84
 - https://www.firehydrant.io/blog/dynamic-kubernetes-informers/
 - https://aws.amazon.com/blogs/opensource/centralized-container-logging-fluent-bit/
-- https://www.digitalocean.com/community/tutorials/how-to-autoscale-your-workloads-on-digitalocean-kubernetes
 - https://www.datadoghq.com/blog/autoscale-kubernetes-datadog/
 - https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/
 - https://github.com/aws-samples/aws-workshop-for-kubernetes
 - https://book.kubebuilder.io/
 - https://www.engineers.sg/video/cluster-ingress-in-the-age-of-envoy-istio-and-cloud-voxxed-days-singapore-2019--3517
-- https://banzaicloud.com/blog/k8s-external-dns-route53/
 - https://speakerdeck.com/spesnova/introduction-to-kustomize
 - https://kubernetes.io/docs/reference/kubectl/jsonpath/
 - https://medium.com/faun/using-minikube-profiles-def2477e968a
@@ -94,7 +92,6 @@ Kubernetes resources
 
 ## Other links
 
-- http://kubernetesbyexample.com/
 - https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/
 - https://kubernetes.io/docs/reference/kubectl/overview/
 - https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
