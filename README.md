@@ -73,6 +73,7 @@ Stuff I want to read
 
 ## vim
 
+- https://gist.github.com/romainl/56f0c28ef953ffc157f36cc495947ab3 (use output of a command to populate quickfix list)
 - https://www.reddit.com/r/vim/comments/4gjbqn/what_tricks_do_you_use_instead_of_popular_plugins/
 - https://twitter.com/jreybert/status/895639299663593472?s=03 (vimagit plugin, seems interesting)
 - https://twitter.com/MasteringVim/status/911207162319425536?t=1&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email&iid=fddfb58c14624ed58a20365c9533fcb4&uid=2570069203&nid=244+272699393
@@ -97,6 +98,10 @@ Stuff I want to read
 - https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
 - https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
 - https://www.youtube.com/watch?v=3s7h2MHQtxc (Hilbert's Curve: Is Infinite math useful?)
+- https://news.ycombinator.com/item?id=22416319 (An intuitive guide to Linear Algebra)
+- https://news.ycombinator.com/item?id=22400375 (Mathematics for the Adventurous Self-Learner)
+- https://drive.google.com/file/d/1qz4wAmwiKadshhrStxcz-8atb0SFcfQ6/view (Applied Probability for Everyone)
+- https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/
 
 
 ## Specialized tech
