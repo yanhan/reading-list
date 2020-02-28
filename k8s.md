@@ -38,6 +38,7 @@ Kubernetes resources
 - https://banzaicloud.com/blog/pke-cis-k8s-benchmark/
 - https://banzaicloud.com/blog/anchore-image-validation/
 - https://banzaicloud.com/blog/container-vulnerability-scans/
+- https://kubernetes.io/docs/concepts/overview/working-with-objects/common-labels/
 
 
 ## Spot instances

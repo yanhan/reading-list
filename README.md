@@ -9,7 +9,6 @@ Stuff I want to read
 - http://www.haskellforall.com/2020/01/dhall-year-in-review-2019-2020.html
 - https://twitter.com/ibuildthecloud/status/1216865498941444096 (k3c - Classic Docker for a k8s world)
 - https://news.ycombinator.com/item?id=22029823 (Probabilistic Programming and Bayesian Methods for Hackers)
-- https://www.digitalocean.com/community/tutorials/how-to-back-up-and-restore-a-kubernetes-cluster-on-digitalocean-using-velero
 - https://blog.arkency.com/how-to-migrate-large-database-tables-without-a-headache/
 - https://news.ycombinator.com/item?id=22106482 (How I write back ends)
 - https://codelabs.developers.google.com/codelabs/vault-on-gke/index.html
