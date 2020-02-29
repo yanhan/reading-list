@@ -20,6 +20,7 @@ Stuff I want to read
 - https://spectrum.ieee.org/tech-talk/computing/software/classical-chinese
 - http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html
 - https://google.github.io/styleguide/shellguide.html
+- https://www.netmeister.org/blog/ops-lessons.html
 
 
 ## Command Line
