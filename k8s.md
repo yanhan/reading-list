@@ -39,6 +39,7 @@ Kubernetes resources
 - https://banzaicloud.com/blog/anchore-image-validation/
 - https://banzaicloud.com/blog/container-vulnerability-scans/
 - https://kubernetes.io/docs/concepts/overview/working-with-objects/common-labels/
+- https://www.datadoghq.com/blog/monitor-kubernetes-audit-logs/
 
 
 ## Spot instances

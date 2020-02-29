@@ -10,6 +10,7 @@
 - https://www.infoq.com/presentations/chaos-engineering-resilient-systems
 - https://news.ycombinator.com/item?id=22366638 (Unix Toolbox (2008))
 - https://www.youtube.com/watch?v=LlvJdK1xsl4 (Monarch, Google's Planet Scale Monitoring Infrastructure)
+- https://wgtwo.com/blog/replacing-jenkins-with-concourse/
 
 
 ## Vault
