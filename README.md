@@ -7,13 +7,11 @@ Stuff I want to read
 
 - https://twitter.com/kubernetesio/status/1214222636437450753?s=19 (List of k8s success stories)
 - https://twitter.com/ibuildthecloud/status/1216865498941444096 (k3c - Classic Docker for a k8s world)
-- https://news.ycombinator.com/item?id=22029823 (Probabilistic Programming and Bayesian Methods for Hackers)
 - https://blog.arkency.com/how-to-migrate-large-database-tables-without-a-headache/
 - https://news.ycombinator.com/item?id=22106482 (How I write back ends)
 - https://codelabs.developers.google.com/codelabs/vault-on-gke/index.html
 - https://caylent.com/using-hashicorp-vault-on-kubernetes
 - https://beepb00p.xyz/unnecessary-db.html
-- https://news.ycombinator.com/item?id=22179841 (Some useful probability facts for Systems Programming)
 - https://news.ycombinator.com/item?id=22226380 (The missing semester of CS education)
 - https://spectrum.ieee.org/tech-talk/computing/software/classical-chinese
 - https://google.github.io/styleguide/shellguide.html
@@ -39,6 +37,7 @@ Stuff I want to read
 
 - https://github.com/jlevy/the-art-of-command-line
 - https://github.com/scrooloose/nerdcommenter (vim plugin for intensely orgasmic commenting)
+- https://news.ycombinator.com/item?id=22179841 (Some useful probability facts for Systems Programming)
 
 
 ## Golang
@@ -182,3 +181,4 @@ Stuff I want to read
 - https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655 (Web Scalability for Startup Engineers [Artur Ejsmont])
 - https://microservices.io/book
 - https://www.amazon.com/gp/product/1492040762 (Cloud Native Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud [John Arundel])
+- https://news.ycombinator.com/item?id=22029823 (Probabilistic Programming and Bayesian Methods for Hackers)
