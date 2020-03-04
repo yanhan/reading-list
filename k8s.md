@@ -26,8 +26,6 @@ Kubernetes resources
 - https://github.com/istio/istio/issues/12231#issuecomment-498463497
 - https://github.com/linkerd/linkerd2/issues/2819
 - https://github.com/linkerd/linkerd2/issues/2847
-- https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/
-- https://blog.digitalocean.com/how-to-deploy-to-digitalocean-kubernetes-with-github-actions/
 - https://www.digitalocean.com/community/tutorials/how-to-automate-deployments-to-digitalocean-kubernetes-with-circleci
 - https://twitter.com/readkubelist/status/1124016470034386944?s=03
 - https://danielfm.me/posts/painless-nginx-ingress.html
@@ -38,16 +36,9 @@ Kubernetes resources
 - https://banzaicloud.com/blog/pke-cis-k8s-benchmark/
 - https://banzaicloud.com/blog/anchore-image-validation/
 - https://banzaicloud.com/blog/container-vulnerability-scans/
-- https://kubernetes.io/docs/concepts/overview/working-with-objects/common-labels/
 - https://www.datadoghq.com/blog/monitor-kubernetes-audit-logs/
 - https://kubernetes.io/docs/tasks/configure-pod-container/static-pod/
 - https://www.datadoghq.com/blog/monitor-kubernetes-audit-logs/
-
-
-## Spot instances
-
-- https://itnext.io/the-definitive-guide-to-running-ec2-spot-instances-as-kubernetes-worker-nodes-68ef2095e767
-- https://github.com/pusher/k8s-spot-rescheduler
 
 
 ## Tools

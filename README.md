@@ -6,7 +6,6 @@ Stuff I want to read
 ## New
 
 - https://twitter.com/kubernetesio/status/1214222636437450753?s=19 (List of k8s success stories)
-- http://www.haskellforall.com/2020/01/dhall-year-in-review-2019-2020.html
 - https://twitter.com/ibuildthecloud/status/1216865498941444096 (k3c - Classic Docker for a k8s world)
 - https://news.ycombinator.com/item?id=22029823 (Probabilistic Programming and Bayesian Methods for Hackers)
 - https://blog.arkency.com/how-to-migrate-large-database-tables-without-a-headache/
@@ -14,11 +13,9 @@ Stuff I want to read
 - https://codelabs.developers.google.com/codelabs/vault-on-gke/index.html
 - https://caylent.com/using-hashicorp-vault-on-kubernetes
 - https://beepb00p.xyz/unnecessary-db.html
-- https://ef.gy/hardening-ssh
 - https://news.ycombinator.com/item?id=22179841 (Some useful probability facts for Systems Programming)
 - https://news.ycombinator.com/item?id=22226380 (The missing semester of CS education)
 - https://spectrum.ieee.org/tech-talk/computing/software/classical-chinese
-- http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html
 - https://google.github.io/styleguide/shellguide.html
 - https://www.netmeister.org/blog/ops-lessons.html
 
