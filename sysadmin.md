@@ -11,6 +11,8 @@
 - https://news.ycombinator.com/item?id=22366638 (Unix Toolbox (2008))
 - https://www.youtube.com/watch?v=LlvJdK1xsl4 (Monarch, Google's Planet Scale Monitoring Infrastructure)
 - https://wgtwo.com/blog/replacing-jenkins-with-concourse/
+- https://www.bigmarker.com/gremlin/Increasing-Reliability-with-Modern-Monitoring-and-Chaos-Engineering
+- https://www.datadoghq.com/blog/monitor-vault-metrics-and-logs/
 
 
 ## Vault

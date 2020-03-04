@@ -41,6 +41,7 @@ Kubernetes resources
 - https://kubernetes.io/docs/concepts/overview/working-with-objects/common-labels/
 - https://www.datadoghq.com/blog/monitor-kubernetes-audit-logs/
 - https://kubernetes.io/docs/tasks/configure-pod-container/static-pod/
+- https://www.datadoghq.com/blog/monitor-kubernetes-audit-logs/
 
 
 ## Spot instances
