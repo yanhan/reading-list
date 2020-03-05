@@ -63,6 +63,11 @@ Kubernetes resources
 - https://training.linuxfoundation.org/training/introduction-to-kubernetes/
 
 
+## Books
+
+- https://blog.digitalocean.com/supporting-kubernetes-developers/
+
+
 ## Paid courses
 
 - https://www.udemy.com/kubernetes-microservices/
