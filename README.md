@@ -16,6 +16,7 @@ Stuff I want to read
 - https://spectrum.ieee.org/tech-talk/computing/software/classical-chinese
 - https://google.github.io/styleguide/shellguide.html
 - https://www.netmeister.org/blog/ops-lessons.html
+- https://gravitational.com/blog/enhanced-session-recording/
 
 
 ## Command Line
