@@ -41,6 +41,9 @@ Kubernetes resources
 - https://www.datadoghq.com/blog/monitor-kubernetes-audit-logs/
 - https://medium.com/faun/35-advanced-tutorials-to-learn-kubernetes-dae5695b1f18
 - https://github.com/aws/containers-roadmap/projects/1
+- https://rancher.com/using-kubernetes-api-go-kubecon-2017-session-recap/
+- https://github.com/alena1108/kubecon2017
+- https://www.youtube.com/watch?v=QIMz4V9WxVc (Using Kubernetes API from Go)
 
 
 ## Tools
