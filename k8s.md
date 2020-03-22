@@ -44,6 +44,7 @@ Kubernetes resources
 - https://rancher.com/using-kubernetes-api-go-kubecon-2017-session-recap/
 - https://github.com/alena1108/kubecon2017
 - https://www.youtube.com/watch?v=QIMz4V9WxVc (Using Kubernetes API from Go)
+- https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/
 
 
 ## Tools
