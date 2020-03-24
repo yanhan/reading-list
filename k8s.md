@@ -38,7 +38,6 @@ Kubernetes resources
 - https://banzaicloud.com/blog/container-vulnerability-scans/
 - https://www.datadoghq.com/blog/monitor-kubernetes-audit-logs/
 - https://kubernetes.io/docs/tasks/configure-pod-container/static-pod/
-- https://www.datadoghq.com/blog/monitor-kubernetes-audit-logs/
 - https://medium.com/faun/35-advanced-tutorials-to-learn-kubernetes-dae5695b1f18
 - https://github.com/aws/containers-roadmap/projects/1
 - https://rancher.com/using-kubernetes-api-go-kubecon-2017-session-recap/

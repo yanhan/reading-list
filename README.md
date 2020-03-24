@@ -20,6 +20,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=22491536 (When not to use (f)lex? yacc or bison
 - https://news.ycombinator.com/item?id=22539403 (Bottlerocket: An operating system designed for hosting containers)
 - https://news.ycombinator.com/item?id=22526589 ("Just walk out" technology by Amazon)
+- https://twitter.com/b0rk/status/1237528379097616388 (what problems have you run into in practice when using containers?)
 
 
 ## Command Line
@@ -118,6 +119,7 @@ Stuff I want to read
 - http://a.co/3SGv8kq (The Art of Multiprocessor Programming)
 - https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks
 - https://docs.oracle.com/javase/tutorial/essential/concurrency/
+- https://news.ycombinator.com/item?id=22672128 (Concurrent Programming, with Examples)
 
 
 ## Operating Systems
