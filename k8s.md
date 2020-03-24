@@ -107,3 +107,10 @@ Kubernetes resources
 - https://scaleyourcode.com/interviews/interview/41
 - https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands
 - https://kubernetes.io/docs/reference/command-line-tools-reference/feature-gates/
+
+
+## CKA cheatsheets
+
+- https://medium.com/faun/how-to-pass-certified-kubernetes-administrator-cka-exam-on-first-attempt-36c0ceb4c9e
+- https://github.com/walidshaari/Kubernetes-Certified-Administrator
+- https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/edit#gid=0 (massive list)
