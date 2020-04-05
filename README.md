@@ -21,6 +21,10 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=22539403 (Bottlerocket: An operating system designed for hosting containers)
 - https://news.ycombinator.com/item?id=22526589 ("Just walk out" technology by Amazon)
 - https://twitter.com/b0rk/status/1237528379097616388 (what problems have you run into in practice when using containers?)
+- https://www.digitalocean.com/community/tutorials/how-to-record-and-share-terminal-sessions-using-terminalizer-on-ubuntu-18-04
+- https://www.digitalocean.com/community/tutorials/how-to-use-nsh-to-run-secure-remote-commands-on-ubuntu-18-04
+- https://mosermichael.github.io/jq-illustrated/dir/content.html
+- https://news.ycombinator.com/item?id=22299180 (Ask HN: What are some books where the reader learns by building projects?)
 
 
 ## Command Line
@@ -188,3 +192,7 @@ Stuff I want to read
 - https://microservices.io/book
 - https://www.amazon.com/gp/product/1492040762 (Cloud Native Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud [John Arundel])
 - https://news.ycombinator.com/item?id=22029823 (Probabilistic Programming and Bayesian Methods for Hackers)
+- https://www.amazon.com/No-bullshit-guide-linear-algebra/dp/0992001021/
+- https://news.ycombinator.com/item?id=22346349 (How These Things Work - a book about CS from first principles)
+- https://www.amazon.com/99-Variations-Proof-Philip-Ording/dp/0691158835/
+- https://www.goodreads.com/book/show/42933.Tai_Pan

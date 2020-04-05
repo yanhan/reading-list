@@ -44,6 +44,7 @@ Kubernetes resources
 - https://github.com/alena1108/kubecon2017
 - https://www.youtube.com/watch?v=QIMz4V9WxVc (Using Kubernetes API from Go)
 - https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/
+- https://www.digitalocean.com/community/tutorials/recommended-steps-to-secure-a-digitalocean-kubernetes-cluster
 
 
 ## Tools
