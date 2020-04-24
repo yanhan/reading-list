@@ -76,6 +76,7 @@ Stuff I want to read
 - https://www.openfaas.com/blog/birthday-teamserverless/
 - https://flywaydb.org/
 - https://github.com/sqshq/sampler
+- https://github.com/jorgebastida/awslogs
 
 
 ## vim
