@@ -45,6 +45,8 @@ Kubernetes resources
 - https://www.youtube.com/watch?v=QIMz4V9WxVc (Using Kubernetes API from Go)
 - https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/
 - https://www.digitalocean.com/community/tutorials/recommended-steps-to-secure-a-digitalocean-kubernetes-cluster
+- https://github.com/ramitsurana/awesome-kubernetes
+- https://github.com/dennyzhang/cheatsheet-kubernetes-A4
 
 
 ## Tools
@@ -115,3 +117,5 @@ Kubernetes resources
 - https://medium.com/faun/how-to-pass-certified-kubernetes-administrator-cka-exam-on-first-attempt-36c0ceb4c9e
 - https://github.com/walidshaari/Kubernetes-Certified-Administrator
 - https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/edit#gid=0 (massive list)
+- https://linuxacademy.com/community/show/25094-cka-exam-experience-and-some-useful-tips/
+- https://github.com/jamiehannaford/what-happens-when-k8s

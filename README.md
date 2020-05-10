@@ -94,6 +94,7 @@ Stuff I want to read
 - https://twitter.com/VimLinks/status/1181847015728308225
 - https://www.quora.com/What-are-some-time-saving-tips-that-every-Vim-user-should-know/answer/Sam-Tetruashvili (`q:` and `q/`)
 - https://twitter.com/MasteringVim/status/1107701235501674497?s=03 (simplify navigation in large markdown files)
+- https://devhints.io/vim
 
 ### vim plugins
 
