@@ -27,6 +27,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=22299180 (Ask HN: What are some books where the reader learns by building projects?)
 - https://kotlinlang.org/docs/reference/coroutines-overview.html
 - https://redislabs.com/ebook/foreword/ (Redis in Action)
+- https://code.flickr.net/2010/02/08/ticket-servers-distributed-unique-primary-keys-on-the-cheap/
 
 
 ## Command Line
