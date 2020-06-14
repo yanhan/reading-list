@@ -13,6 +13,7 @@
 - https://wgtwo.com/blog/replacing-jenkins-with-concourse/
 - https://www.bigmarker.com/gremlin/Increasing-Reliability-with-Modern-Monitoring-and-Chaos-Engineering
 - https://www.datadoghq.com/blog/monitor-vault-metrics-and-logs/
+- https://www.digitalocean.com/community/tutorials/intermediate-sed-manipulating-streams-of-text-in-a-linux-environment
 
 
 ## Vault

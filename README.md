@@ -28,6 +28,9 @@ Stuff I want to read
 - https://kotlinlang.org/docs/reference/coroutines-overview.html
 - https://redislabs.com/ebook/foreword/ (Redis in Action)
 - https://code.flickr.net/2010/02/08/ticket-servers-distributed-unique-primary-keys-on-the-cheap/
+- http://nodejsconfit.levelgraph.io/#1
+- https://instagram-engineering.com/instagration-pt-2-scaling-our-infrastructure-to-multiple-data-centers-5745cbad7834
+- https://www.ardanlabs.com/blog/2020/06/python-go-grpc.html
 
 
 ## Command Line
@@ -58,6 +61,7 @@ Stuff I want to read
 - https://blog.golang.org/error-handling-and-go
 - https://golangbot.com/variadic-functions/
 - https://golangnote.com/
+- https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA/videos (GopherCon videos 2015 to 2019)
 
 
 ## Developer tools / Libraries
