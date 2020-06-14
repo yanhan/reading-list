@@ -31,6 +31,8 @@ Stuff I want to read
 - http://nodejsconfit.levelgraph.io/#1
 - https://instagram-engineering.com/instagration-pt-2-scaling-our-infrastructure-to-multiple-data-centers-5745cbad7834
 - https://www.ardanlabs.com/blog/2020/06/python-go-grpc.html
+- https://peter.bourgon.org/observability-the-hard-parts/
+- https://peter.bourgon.org/go-for-industrial-programming/
 
 
 ## Command Line
