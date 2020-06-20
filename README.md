@@ -33,6 +33,7 @@ Stuff I want to read
 - https://www.ardanlabs.com/blog/2020/06/python-go-grpc.html
 - https://peter.bourgon.org/observability-the-hard-parts/
 - https://peter.bourgon.org/go-for-industrial-programming/
+- https://www.slideshare.net/billkarwin/how-to-design-indexes-really
 
 
 ## Command Line
@@ -207,3 +208,5 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=22346349 (How These Things Work - a book about CS from first principles)
 - https://www.amazon.com/99-Variations-Proof-Philip-Ording/dp/0691158835/
 - https://www.goodreads.com/book/show/42933.Tai_Pan
+- https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/ (Release It! Design and Deploy Production-Ready Software [by Michael Nygard])
+- https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029/ (Building Microservices [by Sam Newman])
