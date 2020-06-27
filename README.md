@@ -34,10 +34,18 @@ Stuff I want to read
 - https://peter.bourgon.org/observability-the-hard-parts/
 - https://peter.bourgon.org/go-for-industrial-programming/
 - https://www.slideshare.net/billkarwin/how-to-design-indexes-really
+- https://www.kernel.org/doc/Documentation/networking/scaling.txt
+- https://gravitational.com/blog/scp-familiar-simple-insecure-slow/
+
+
+## Backend engineering
+
+- https://www.kislayverma.com/post/code-review-checklist-for-distributed-systems
 
 
 ## Command Line
 
+- https://opensource.com/article/18/5/bash-tricks
 - https://everythingsysadmin.com/2012/09/unorthodoxunix.html
 - https://twobithistory.org/2019/08/22/readline.html
 - https://news.ycombinator.com/item?id=21281025 (Stupid Unix Tricks)
@@ -65,6 +73,7 @@ Stuff I want to read
 - https://golangbot.com/variadic-functions/
 - https://golangnote.com/
 - https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA/videos (GopherCon videos 2015 to 2019)
+- https://auth0.com/blog/authentication-in-golang/
 
 
 ## Developer tools / Libraries
@@ -188,6 +197,11 @@ Stuff I want to read
 ## Products
 
 - https://tailscale.com/
+
+
+## Tough
+
+- https://www.cnil.fr/en/cnil-publishes-gdpr-guide-developers
 
 
 ## Books to check out

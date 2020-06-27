@@ -4,6 +4,7 @@ Kubernetes resources
 
 ## Unclassified
 
+- https://k8s.af/
 - https://banzaicloud.com/blog/inject-secrets-into-pods-vault-revisited/
 - https://twitter.com/alexellisuk/status/1232012833501655042
 - https://github.com/banzaicloud/bank-vaults/blob/master/cmd/vault-secrets-webhook/main.go
