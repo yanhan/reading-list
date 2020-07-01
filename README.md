@@ -36,6 +36,7 @@ Stuff I want to read
 - https://www.slideshare.net/billkarwin/how-to-design-indexes-really
 - https://www.kernel.org/doc/Documentation/networking/scaling.txt
 - https://gravitational.com/blog/scp-familiar-simple-insecure-slow/
+- https://news.ycombinator.com/item?id=23662540 (Building a high performance JSON parser)
 
 
 ## Backend engineering
