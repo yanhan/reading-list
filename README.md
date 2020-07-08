@@ -37,6 +37,7 @@ Stuff I want to read
 - https://www.kernel.org/doc/Documentation/networking/scaling.txt
 - https://gravitational.com/blog/scp-familiar-simple-insecure-slow/
 - https://news.ycombinator.com/item?id=23662540 (Building a high performance JSON parser)
+- https://developers.google.com/web/fundamentals
 
 
 ## Backend engineering
@@ -97,6 +98,7 @@ Stuff I want to read
 - https://flywaydb.org/
 - https://github.com/sqshq/sampler
 - https://github.com/jorgebastida/awslogs
+- https://github.com/wg/wrk
 
 
 ## vim
