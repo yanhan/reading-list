@@ -38,6 +38,7 @@ Stuff I want to read
 - https://gravitational.com/blog/scp-familiar-simple-insecure-slow/
 - https://news.ycombinator.com/item?id=23662540 (Building a high performance JSON parser)
 - https://developers.google.com/web/fundamentals
+- https://staffeng.com/stories/
 
 
 ## Backend engineering
@@ -227,3 +228,4 @@ Stuff I want to read
 - https://www.goodreads.com/book/show/42933.Tai_Pan
 - https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/ (Release It! Design and Deploy Production-Ready Software [by Michael Nygard])
 - https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029/ (Building Microservices [by Sam Newman])
+- https://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin-ebook/dp/B009LTPSTO (Introduction to Mathematical Thinking [Keith Devlin])
