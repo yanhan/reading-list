@@ -36,6 +36,7 @@
 - https://pragprog.com/book/pplearn/programming-machine-learning (Programming Machine Learning: From Zero to Deep Learning [Paolo Perrotta])
 - https://pragprog.com/book/fbmach/genetic-algorithms-and-machine-learning-for-programmers (Genetic Algorithms and Machine Learning for Programmers: Create AI Models and Evolve Solutions [Frances Buontempo])
 - https://blog.digitalocean.com/gear-up-for-pycon-2019-with-digitaloceans-free-python-machine-learning-projects-ebook/
+- http://neuralnetworksanddeeplearning.com/
 
 
 ## Math
@@ -62,3 +63,8 @@
 - https://cs.stackexchange.com/questions/75457/how-much-does-regularization-prevent-overfitting
 - https://cs.stackexchange.com/questions/75327/why-is-deep-learning-hyped-despite-bad-vc-dimension
 - https://cs.stackexchange.com/questions/75397/is-it-a-problem-that-successful-machine-learning-algorithms-have-large-vc-dime
+
+
+## NLP
+
+- https://github.com/huggingface/nlp
