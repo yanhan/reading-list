@@ -39,6 +39,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=23662540 (Building a high performance JSON parser)
 - https://developers.google.com/web/fundamentals
 - https://staffeng.com/stories/
+- https://github.com/alexdai186/HighFrequencyTradingSVMs
 
 
 ## Backend engineering
@@ -208,6 +209,11 @@ Stuff I want to read
 - https://www.cnil.fr/en/cnil-publishes-gdpr-guide-developers
 
 
+## C++
+
+- https://github.com/facebook/folly
+
+
 ## Books to check out
 
 - https://pragprog.com/book/jbtracer/the-ray-tracer-challenge (The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer [Jamis Buck])
@@ -229,3 +235,4 @@ Stuff I want to read
 - https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software/dp/1680502395/ (Release It! Design and Deploy Production-Ready Software [by Michael Nygard])
 - https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029/ (Building Microservices [by Sam Newman])
 - https://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin-ebook/dp/B009LTPSTO (Introduction to Mathematical Thinking [Keith Devlin])
+- https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197/ (Concurrency in Go: Tools and Techniques for Developers [Katherine Cox-Buday])
