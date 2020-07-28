@@ -236,3 +236,14 @@ Stuff I want to read
 - https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029/ (Building Microservices [by Sam Newman])
 - https://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin-ebook/dp/B009LTPSTO (Introduction to Mathematical Thinking [Keith Devlin])
 - https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197/ (Concurrency in Go: Tools and Techniques for Developers [Katherine Cox-Buday])
+
+
+## Copyright
+
+The content of the links in this repo are copyright to their respective authors.
+
+This collection of links is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/):
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
+
+Copyright (c) 2019 Yan Han Pang 
