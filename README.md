@@ -40,6 +40,7 @@ Stuff I want to read
 - https://developers.google.com/web/fundamentals
 - https://staffeng.com/stories/
 - https://github.com/alexdai186/HighFrequencyTradingSVMs
+- https://news.ycombinator.com/item?id=23841491 (Data structures and algorithms I actually used while working at tech companies)
 
 
 ## Backend engineering
