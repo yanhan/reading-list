@@ -128,7 +128,6 @@ Stuff I want to read
 
 - https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
 - https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
-- https://www.youtube.com/watch?v=3s7h2MHQtxc (Hilbert's Curve: Is Infinite math useful?)
 - https://news.ycombinator.com/item?id=22416319 (An intuitive guide to Linear Algebra)
 - https://news.ycombinator.com/item?id=22400375 (Mathematics for the Adventurous Self-Learner)
 - https://drive.google.com/file/d/1qz4wAmwiKadshhrStxcz-8atb0SFcfQ6/view (Applied Probability for Everyone)
