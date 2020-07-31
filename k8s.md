@@ -120,4 +120,3 @@ Kubernetes resources
 - https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/edit#gid=0 (massive list)
 - https://linuxacademy.com/community/show/25094-cka-exam-experience-and-some-useful-tips/
 - https://github.com/jamiehannaford/what-happens-when-k8s
-w
