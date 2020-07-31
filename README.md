@@ -19,7 +19,6 @@ Stuff I want to read
 - https://gravitational.com/blog/enhanced-session-recording/
 - https://news.ycombinator.com/item?id=22491536 (When not to use (f)lex? yacc or bison)
 - https://news.ycombinator.com/item?id=22539403 (Bottlerocket: An operating system designed for hosting containers)
-- https://news.ycombinator.com/item?id=22526589 ("Just walk out" technology by Amazon)
 - https://twitter.com/b0rk/status/1237528379097616388 (what problems have you run into in practice when using containers?)
 - https://www.digitalocean.com/community/tutorials/how-to-record-and-share-terminal-sessions-using-terminalizer-on-ubuntu-18-04
 - https://www.digitalocean.com/community/tutorials/how-to-use-nsh-to-run-secure-remote-commands-on-ubuntu-18-04
