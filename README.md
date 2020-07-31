@@ -95,7 +95,6 @@ Stuff I want to read
 - https://mermaidjs.github.io/
 - https://news.ycombinator.com/item?id=21772610 (Huginn, worth a try)
 - https://github.com/ansible-community/ansible-bender (Building docker containers using ansible as the frontend)
-- https://www.openfaas.com/blog/birthday-teamserverless/
 - https://flywaydb.org/
 - https://github.com/sqshq/sampler
 - https://github.com/jorgebastida/awslogs
