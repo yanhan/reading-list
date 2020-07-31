@@ -137,7 +137,6 @@ Stuff I want to read
 ## Specialized tech
 
 - https://news.ycombinator.com/item?id=21724191 (Building a search engine from scratch)
-- https://news.ycombinator.com/item?id=21721832 (PostgreSQL at low level: stay curious)
 
 
 ## Concurrency
