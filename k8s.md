@@ -19,7 +19,6 @@ Kubernetes resources
 - https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/
 - https://github.com/aws-samples/aws-workshop-for-kubernetes
 - https://book.kubebuilder.io/
-- https://www.engineers.sg/video/cluster-ingress-in-the-age-of-envoy-istio-and-cloud-voxxed-days-singapore-2019--3517
 - https://speakerdeck.com/spesnova/introduction-to-kustomize
 - https://kubernetes.io/docs/reference/kubectl/jsonpath/
 - https://medium.com/faun/using-minikube-profiles-def2477e968a
