@@ -25,7 +25,6 @@ Stuff I want to read
 - https://www.digitalocean.com/community/tutorials/how-to-use-nsh-to-run-secure-remote-commands-on-ubuntu-18-04
 - https://mosermichael.github.io/jq-illustrated/dir/content.html
 - https://news.ycombinator.com/item?id=22299180 (Ask HN: What are some books where the reader learns by building projects?)
-- https://kotlinlang.org/docs/reference/coroutines-overview.html
 - https://redislabs.com/ebook/foreword/ (Redis in Action)
 - https://code.flickr.net/2010/02/08/ticket-servers-distributed-unique-primary-keys-on-the-cheap/
 - http://nodejsconfit.levelgraph.io/#1
