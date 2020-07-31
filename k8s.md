@@ -65,7 +65,6 @@ Kubernetes resources
 
 ## Free online courses
 
-- https://www.edx.org/course/introduction-to-kubernetes
 - https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
 - https://www.katacoda.com/courses/kubernetes
 - https://training.linuxfoundation.org/training/introduction-to-kubernetes/
