@@ -40,6 +40,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=23841491 (Data structures and algorithms I actually used while working at tech companies)
 - https://www.linux.com/news/using-tensorflow-js-and-node-red-with-image-recognition-applications/
 - https://martinfowler.com/bliki/DesignStaminaHypothesis.html
+- https://www.slideshare.net/DavidTan26/improving-how-we-deliver-machine-learning-models-xconf-2019
 
 
 ## Backend engineering
