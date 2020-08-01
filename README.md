@@ -39,6 +39,7 @@ Stuff I want to read
 - https://github.com/alexdai186/HighFrequencyTradingSVMs
 - https://news.ycombinator.com/item?id=23841491 (Data structures and algorithms I actually used while working at tech companies)
 - https://www.linux.com/news/using-tensorflow-js-and-node-red-with-image-recognition-applications/
+- https://martinfowler.com/bliki/DesignStaminaHypothesis.html
 
 
 ## Backend engineering
