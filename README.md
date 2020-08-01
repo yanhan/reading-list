@@ -231,6 +231,7 @@ Stuff I want to read
 - https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029/ (Building Microservices [by Sam Newman])
 - https://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin-ebook/dp/B009LTPSTO (Introduction to Mathematical Thinking [Keith Devlin])
 - https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197/ (Concurrency in Go: Tools and Techniques for Developers [Katherine Cox-Buday])
+- https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM
 
 
 ## Copyright
