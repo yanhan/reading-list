@@ -234,6 +234,7 @@ Stuff I want to read
 - https://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin-ebook/dp/B009LTPSTO (Introduction to Mathematical Thinking [Keith Devlin])
 - https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197/ (Concurrency in Go: Tools and Techniques for Developers [Katherine Cox-Buday])
 - https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM
+- https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF (System Design Interview - An insider's guide [Alex Xu])
 
 
 ## Copyright
