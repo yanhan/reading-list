@@ -1,3 +1,8 @@
+## Tips to get started
+
+- https://www.youtube.com/watch?v=4CTDdxfSXF0 (Deep Learning: Advice on Getting started with fast.ai - Jeremy Howard; founder of fast.ai)
+
+
 ## Guides
 
 - https://developers.google.com/machine-learning/guides/rules-of-ml/
