@@ -48,6 +48,9 @@ Kubernetes resources
 - https://github.com/ramitsurana/awesome-kubernetes
 - https://github.com/dennyzhang/cheatsheet-kubernetes-A4
 - https://www.datadoghq.com/blog/monitoring-kubernetes-performance-metrics/
+- https://github.com/open-policy-agent/gatekeeper
+- https://srcco.de/posts/how-zalando-manages-140-kubernetes-clusters.html
+- https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers
 
 
 ## Tools

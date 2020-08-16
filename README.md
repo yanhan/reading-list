@@ -5,6 +5,7 @@ Stuff I want to read
 
 ## New
 
+- http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/
 - https://twitter.com/kubernetesio/status/1214222636437450753?s=19 (List of k8s success stories)
 - https://twitter.com/ibuildthecloud/status/1216865498941444096 (k3c - Classic Docker for a k8s world)
 - https://blog.arkency.com/how-to-migrate-large-database-tables-without-a-headache/
@@ -41,6 +42,29 @@ Stuff I want to read
 - https://www.linux.com/news/using-tensorflow-js-and-node-red-with-image-recognition-applications/
 - https://martinfowler.com/bliki/DesignStaminaHypothesis.html
 - https://www.slideshare.net/DavidTan26/improving-how-we-deliver-machine-learning-models-xconf-2019
+- https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/
+- https://aws.amazon.com/builders-library/leader-election-in-distributed-systems
+- https://overcast.fm/+SyoykF_wI?ck_subscriber_id=412059979
+- https://github.com/cosmos72/gomacro
+- https://www.8bitmen.com/facebook-real-time-chat-architecture-scaling-with-over-multi-billion-messages-daily/
+- https://letterstoanewdeveloper.com/
+- https://increment.com/testing/i-test-in-production/
+- https://www.infoq.com/presentations/go-locks/
+- https://google.github.io/eng-practices/review/reviewer/
+- https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538
+- https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4
+- https://idea.popcount.org/2019-09-20-when-tcp-sockets-refuse-to-die/
+- https://medium.com/@copyconstruct/testing-in-production-the-hard-parts-3f06cefaf592
+- https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8
+- https://blog.benjojo.co.uk/post/you-cant-curl-under-pressure
+- https://stackoverflow.blog/2019/10/29/my-most-embarrassing-mistakes-as-a-programmer-so-far/
+- https://about.gitlab.com/blog/2019/11/08/the-consul-outage-that-never-happened/
+- https://github.com/bpkg/bpkg
+- https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack/
+- https://kasvith.me/posts/lets-create-a-simple-lb-go
+- https://theartofmachinery.com/2019/11/14/deployment_debugging_strace.html
+- https://www.networkdefenseblog.com/post/wireshark-tcp-challenge-ack
+- https://blog.regehr.org/archives/490
 
 
 ## Backend engineering
@@ -55,6 +79,9 @@ Stuff I want to read
 - https://twobithistory.org/2019/08/22/readline.html
 - https://news.ycombinator.com/item?id=21281025 (Stupid Unix Tricks)
 - https://github.com/alebcay/awesome-shell
+- https://dev.to/antjanus/my-favorite-linux-tools-12be
+- https://sneak.berlin/20191011/stupid-unix-tricks/
+- https://www.wezm.net/technical/2019/10/useful-command-line-tools
 
 
 ## Microservices
@@ -79,6 +106,7 @@ Stuff I want to read
 - https://golangnote.com/
 - https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA/videos (GopherCon videos 2015 to 2019)
 - https://auth0.com/blog/authentication-in-golang/
+- https://github.com/shomali11/go-interview
 
 
 ## Developer tools / Libraries
@@ -101,6 +129,7 @@ Stuff I want to read
 - https://github.com/sqshq/sampler
 - https://github.com/jorgebastida/awslogs
 - https://github.com/wg/wrk
+- https://github.com/drakkan/sftpgo
 
 
 ## vim
@@ -174,6 +203,7 @@ Stuff I want to read
 - https://eschew.wordpress.com/2020/01/26/undergrad-compilers-from-the-hive-mind/
 - https://increment.com/programming-languages/crash-course-in-compilers/
 - https://news.ycombinator.com/item?id=20914046 (Ask HN: Compiler Engineers, what would you advise new grads/students to learn?)
+- https://craftinginterpreters.com/contents.html
 
 
 ## Deep tutorials
@@ -188,6 +218,8 @@ Stuff I want to read
 - https://pdos.csail.mit.edu/6.824/index.html
 - https://github.com/aphyr/distsys-class
 - https://www.youtube.com/playlist?list=PLpl804R-ZwjKCOwWpTZ21eeaBS3uBrMfV (MIT 6.824 Distributed Systems)
+- https://dgraph.io/blog/post/solving-jepsen-with-opencensus/
+- https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/
 
 
 ## PostgreSQL
@@ -235,6 +267,7 @@ Stuff I want to read
 - https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197/ (Concurrency in Go: Tools and Techniques for Developers [Katherine Cox-Buday])
 - https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM
 - https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF (System Design Interview - An insider's guide [Alex Xu])
+- http://maizure.org/projects/decoded-gnu-coreutils/
 
 
 ## Copyright

@@ -73,3 +73,8 @@
 ## NLP
 
 - https://github.com/huggingface/nlp
+
+
+## Papers
+
+- http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36955.pdf

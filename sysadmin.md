@@ -1,5 +1,8 @@
 ## New
 
+- https://opensource.com/article/20/6/modern-linux-command-line-tools
+- https://blog.cloudflare.com/how-we-use-hashicorp-nomad/
+- https://jvns.ca/blog/how-updating-dns-works/
 - https://www.shellhacks.com/systemd-service-file-example/
 - https://blog.callr.tech/gitlab-ansible-docker-ci-cd/
 - https://github.com/airbnb/streamalert
@@ -15,6 +18,12 @@
 - https://www.datadoghq.com/blog/monitor-vault-metrics-and-logs/
 - https://www.digitalocean.com/community/tutorials/intermediate-sed-manipulating-streams-of-text-in-a-linux-environment
 - https://opensource.com/article/20/4/systemd
+- https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics
+- https://fzakaria.com/2020/05/31/containers-from-first-principles.html
+- https://engineering.convertkit.com/2019/09/09/aws.html
+- https://peteris.rocks/blog/htop/
+- https://github.com/Tikam02/DevOps-Guide
+- https://www.20i.com/blog/dkim-demystified/
 
 
 ## Vault
@@ -43,6 +52,7 @@
 ## Tools
 
 - https://smallstep.com/cli/
+- https://github.com/jedisct1/dsvpn
 
 
 ## SSH tricks
@@ -134,6 +144,7 @@
 
 ## Bash
 
+- https://github.com/bach-sh/bach
 - http://mywiki.wooledge.org/BashPitfalls
 
 
