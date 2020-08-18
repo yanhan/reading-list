@@ -220,6 +220,7 @@ Stuff I want to read
 - https://www.youtube.com/playlist?list=PLpl804R-ZwjKCOwWpTZ21eeaBS3uBrMfV (MIT 6.824 Distributed Systems)
 - https://dgraph.io/blog/post/solving-jepsen-with-opencensus/
 - https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/
+- https://martinfowler.com/articles/patterns-of-distributed-systems/
 
 
 ## PostgreSQL
