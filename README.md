@@ -204,6 +204,8 @@ Stuff I want to read
 - https://increment.com/programming-languages/crash-course-in-compilers/
 - https://news.ycombinator.com/item?id=20914046 (Ask HN: Compiler Engineers, what would you advise new grads/students to learn?)
 - https://craftinginterpreters.com/contents.html
+- https://github.com/DoctorWkt/acwj
+- https://www.reddit.com/r/ProgrammingLanguages/comments/imzmkh/advice_on_writing_a_new_compiler/
 
 
 ## Deep tutorials
