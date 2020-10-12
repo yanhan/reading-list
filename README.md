@@ -107,6 +107,7 @@ Stuff I want to read
 - https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA/videos (GopherCon videos 2015 to 2019)
 - https://auth0.com/blog/authentication-in-golang/
 - https://github.com/shomali11/go-interview
+- https://github.com/hoanhan101/ultimate-go
 
 
 ## Developer tools / Libraries
