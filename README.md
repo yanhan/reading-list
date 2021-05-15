@@ -65,6 +65,8 @@ Stuff I want to read
 - https://theartofmachinery.com/2019/11/14/deployment_debugging_strace.html
 - https://www.networkdefenseblog.com/post/wireshark-tcp-challenge-ack
 - https://blog.regehr.org/archives/490
+- https://news.ycombinator.com/item?id=26053323 (A visual guide to SSH tunnels)
+- https://news.ycombinator.com/item?id=26634419 (Improving shell workflows with fzf)
 
 
 ## Backend engineering
@@ -164,6 +166,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=22400375 (Mathematics for the Adventurous Self-Learner)
 - https://drive.google.com/file/d/1qz4wAmwiKadshhrStxcz-8atb0SFcfQ6/view (Applied Probability for Everyone)
 - https://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/
+- https://news.ycombinator.com/item?id=24893771 (Is there a website specialized in mathematics courses?)
 
 
 ## Specialized tech
@@ -207,6 +210,8 @@ Stuff I want to read
 - https://craftinginterpreters.com/contents.html
 - https://github.com/DoctorWkt/acwj
 - https://www.reddit.com/r/ProgrammingLanguages/comments/imzmkh/advice_on_writing_a_new_compiler/
+- https://news.ycombinator.com/item?id=25386756 (Advanced compilers: self-guided online course)
+- https://news.ycombinator.com/item?id=26925314 (Resources for Amateur Compiler Writers)
 
 
 ## Deep tutorials
@@ -246,6 +251,11 @@ Stuff I want to read
 ## C++
 
 - https://github.com/facebook/folly
+
+
+## Nim
+
+- https://news.ycombinator.com/item?id=25505492 (Nim Aprocrypha, Vol. I)
 
 
 ## Books to check out
