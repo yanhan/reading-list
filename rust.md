@@ -1,1 +1,3 @@
 - https://github.com/Dhghomon/easy_rust
+- https://github.com/ZhangHanDong/rust-code-reading-club
+- https://rustmagazine.github.io/rust_magazine_2021/index.html

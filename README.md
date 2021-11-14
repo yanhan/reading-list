@@ -5,6 +5,12 @@ Stuff I want to read
 
 ## New
 
+- https://news.ycombinator.com/item?id=29170736 (A no-go fantasy: writing Go in Ruby with Ruby Next)
+- https://news.ycombinator.com/item?id=29116026 (How to Learn Stuff Quickly)
+- https://news.ycombinator.com/item?id=29104047 (An oral history of Bank Python)
+- https://news.ycombinator.com/item?id=28845593 (Solving NP-hard puzzles with the oldest trick in the book)
+- https://news.ycombinator.com/item?id=28478751 (Books that teach you programming languages via systems projects?)
+- https://news.ycombinator.com/item?id=28435613 (Age 1.0 - Simple, modern and secure file encryption)
 - http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/
 - https://twitter.com/kubernetesio/status/1214222636437450753?s=19 (List of k8s success stories)
 - https://twitter.com/ibuildthecloud/status/1216865498941444096 (k3c - Classic Docker for a k8s world)
@@ -76,6 +82,7 @@ Stuff I want to read
 
 ## Command Line
 
+- https://news.ycombinator.com/item?id=27992073 (Command line tools for productive programmers)
 - https://opensource.com/article/18/5/bash-tricks
 - https://everythingsysadmin.com/2012/09/unorthodoxunix.html
 - https://twobithistory.org/2019/08/22/readline.html
@@ -110,6 +117,9 @@ Stuff I want to read
 - https://auth0.com/blog/authentication-in-golang/
 - https://github.com/shomali11/go-interview
 - https://github.com/hoanhan101/ultimate-go
+- https://blog.codecentric.de/en/2017/08/gomock-tutorial/
+- https://goreportcard.com/
+- https://travix.io/encapsulating-dependencies-in-go-b0fd74021f5a
 
 
 ## Developer tools / Libraries
@@ -160,6 +170,7 @@ Stuff I want to read
 
 ## Mathematics
 
+- https://news.ycombinator.com/item?id=29011549 (Essential calculus ideas [video])
 - https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
 - https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
 - https://news.ycombinator.com/item?id=22416319 (An intuitive guide to Linear Algebra)

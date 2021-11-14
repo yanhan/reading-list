@@ -8,3 +8,4 @@
 - https://engineering.shopify.com/blogs/engineering/shopify-manages-petabyte-scale-mysql-backup-restore
 - https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/
 - http://dbmsmusings.blogspot.com/2019/07/overview-of-consistency-levels-in.html
+- https://news.ycombinator.com/item?id=28678647 (Partitioning GitHub's relational databases to handle scale)
