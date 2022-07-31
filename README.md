@@ -5,6 +5,12 @@ Stuff I want to read
 
 ## New
 
+- https://casdoor.org/
+- https://casbin.io/
+- https://blog.px.dev/argo-rollouts/
+- https://blog.px.dev/ebpf-cncf/
+- https://www.reddit.com/r/kubernetes/comments/u9np9w/open_source_continuous_profiling_for_k8s_apps_in/
+- https://github.com/mikeroyal/eBPF-Guide
 - https://news.ycombinator.com/item?id=29170736 (A no-go fantasy: writing Go in Ruby with Ruby Next)
 - https://news.ycombinator.com/item?id=29116026 (How to Learn Stuff Quickly)
 - https://news.ycombinator.com/item?id=29104047 (An oral history of Bank Python)
@@ -73,6 +79,11 @@ Stuff I want to read
 - https://blog.regehr.org/archives/490
 - https://news.ycombinator.com/item?id=26053323 (A visual guide to SSH tunnels)
 - https://news.ycombinator.com/item?id=26634419 (Improving shell workflows with fzf)
+
+
+## Algorithms
+
+- https://oi-wiki.org/ds/
 
 
 ## Backend engineering
