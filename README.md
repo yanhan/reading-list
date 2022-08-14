@@ -5,6 +5,10 @@ Stuff I want to read
 
 ## New
 
+- https://twitter.com/capileigh/status/1503835094938796034
+- https://newsletter.pragmaticengineer.com/p/scoop-atlassian
+- https://sre.google/prodcast/
+- https://www.reddit.com/r/devops/comments/u2eq4g/how_do_you_handle_documenting_and_what_tips_would/
 - https://casdoor.org/
 - https://casbin.io/
 - https://blog.px.dev/argo-rollouts/
