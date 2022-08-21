@@ -5,6 +5,9 @@ Stuff I want to read
 
 ## New
 
+- https://www.reddit.com/r/kubernetes/comments/u8w4h0/grafana_dashboards_best_practices_and/
+- https://docs.px.dev/tutorials/pixie-101/infra-health/
+- https://kubevela.io/blog/2022/04/24/blog-1.3
 - https://twitter.com/capileigh/status/1503835094938796034
 - https://newsletter.pragmaticengineer.com/p/scoop-atlassian
 - https://sre.google/prodcast/
