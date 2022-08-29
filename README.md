@@ -5,6 +5,7 @@ Stuff I want to read
 
 ## New
 
+- https://www.reddit.com/r/kubernetes/comments/u89we5/bootstrapping_clusters_with_eks_blueprints/
 - https://www.reddit.com/r/kubernetes/comments/u8w4h0/grafana_dashboards_best_practices_and/
 - https://docs.px.dev/tutorials/pixie-101/infra-health/
 - https://kubevela.io/blog/2022/04/24/blog-1.3
