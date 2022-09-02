@@ -5,6 +5,10 @@ Stuff I want to read
 
 ## New
 
+- https://www.bwplotka.dev/2021/mdox/
+- https://www.bwplotka.dev/2021/have-fun/
+- https://www.bwplotka.dev/2019/golang-memory-monitoring/
+- https://aws-quickstart.github.io/cdk-eks-blueprints/
 - https://www.reddit.com/r/kubernetes/comments/u89we5/bootstrapping_clusters_with_eks_blueprints/
 - https://www.reddit.com/r/kubernetes/comments/u8w4h0/grafana_dashboards_best_practices_and/
 - https://docs.px.dev/tutorials/pixie-101/infra-health/
